@@ -6,7 +6,12 @@ University of Nebraska-Lincoln
 
 # Education
 
-Ph.D.     Food Science and Technology (with a minor in Statistics), University of Nebraska, 2016  
+Ph.D.     Food Science and Technology (with a minor in Statistics), University of Nebraska-Lincoln, 2016  
 M.S.      Veterinary Microbioloy, Iowa State University, 2012  
 B.S.      Computer Science, University of the People, *in progress*  
 B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2007  
+
+# Academic appointments
+
+2018-present    Postdoctoral researcher in Microbial genomics and epidemiology, University of Nebraska-Lincoln  
+2017-2018       Postdoctoral resercher in Gut microbiome and inflammatory diseases, University of Utah Medical Center  
