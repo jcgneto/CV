@@ -101,3 +101,15 @@ Microbiology
 Veterinary Pathology  
 Behavioural Brain Research  
 FEBS open bio  
+
+# Professional references
+
+Dr. Amanda E. Ramer-Tait (UNL) - aramer-tait2@unl.edu   
+Dr. Baha Abdalhamid (UNMC) - babdalhamid@unmc.edu  
+Dr. Dustin Loy (UNL) - jdloy@unl.edu  
+Dr. Rodney Moxley (UNL) - rmoxley1@unl.edu  
+Dr. Byron Chaves (UNL) - byron.chaves-elizondo@unl.edu  
+Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu  
+Dr. Andrew Benson (UNL) - abenson1@unl.edu    
+Dr. Erin Strait (Ceva Animale) - 
+Dr. June Round (University of Utah) - june.round@path.utah.edu  
