@@ -20,6 +20,26 @@ B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2
 
 Microbial genomics and epidemiology: ecology of foodborne pathogens, bioinformatics, data analytics and statistics  
 
+# Publications 
+
+## Articles in peer-reviewed journals
+
+## Book chapters
+
 # Professional affiliations
 
 American Society for Microbiology (member since 2012)  
+
+# Patents
+
+# Grants and awards 
+
+## Awards and honors
+
+## Grants
+
+# Teaching experiences
+
+# Service 
+
+## Journal peer review
