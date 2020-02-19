@@ -6,7 +6,7 @@ University of Nebraska-Lincoln
 
 # Education
 
-Ph.D.     Food Science and Technology (with a minor in Statistics), University of Nebraska, 2016
-M.S.      Veterinary Microbioloy, Iowa State University, 2012
-B.S.      Computer Science, University of the People, *in progress*
-B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2007
+Ph.D.     Food Science and Technology (with a minor in Statistics), University of Nebraska, 2016\n
+M.S.      Veterinary Microbioloy, Iowa State University, 2012\n
+B.S.      Computer Science, University of the People, *in progress*\n
+B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2007\n
