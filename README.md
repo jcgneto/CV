@@ -19,3 +19,7 @@ B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2
 # Research areas
 
 Microbial genomics and epidemiology: ecology of foodborne pathogens, bioinformatics, data analytics and statistics  
+
+# Professional affiliations
+
+American Society for Microbiology (member since 2012)  
