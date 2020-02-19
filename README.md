@@ -32,6 +32,8 @@ American Society for Microbiology (member since 2012)
 
 # Patents
 
+ISURF #04068 (2012) – Testing of *Mycoplasma hyosynoviae* field isolates for vaccine development. Patent was shared with Dr. Erin Strait and Zoetis Animal Health  
+
 # Grants and awards 
 
 ## Awards and honors
