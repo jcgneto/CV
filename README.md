@@ -36,9 +36,19 @@ American Society for Microbiology (member since 2012)
 
 ## Awards and honors
 
+The Milton E. Mohr Graduate Assistant (2015-16)
+McNair Scholars (2015-16)
+Award Larrick/Whitmore Graduate Student Travel Grants Award (2015)
+The Widman Distinguished Graduate Assistant (2014-15)
+Golden Key International Society membership (2014)
+
 ## Grants
 
 # Teaching experiences
+
+Lecture in Epidemiology of foodborne pathogens (UNL/2020)
+Microbiology (UNL/2016)
+Food microbiology laboratory (UNL/2015)
 
 # Service 
 
