@@ -65,6 +65,8 @@ Microbial genomics and epidemiology: ecology of foodborne pathogens, bioinformat
 
 ## Book chapters
 
+Chapter VII: Diagnosis (*Mycoplasma hyopneumoniae*) 
+
 # Professional affiliations
 
 American Society for Microbiology (member since 2012)  
