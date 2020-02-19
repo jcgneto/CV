@@ -15,3 +15,7 @@ B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2
 
 (2018-present)        Postdoctoral researcher in Microbial genomics and epidemiology, University of Nebraska-Lincoln  
 (2017-2018)           Postdoctoral resercher in Gut microbiome and inflammatory diseases, University of Utah Medical Center  
+
+# Research areas
+
+Microbial genomics and epidemiology: ecology of foodborne pathogens, bioinformatics, data analytics and statistics  
