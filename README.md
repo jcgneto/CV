@@ -2,4 +2,4 @@
 
 Department of Food Science and Technology                                    
 University of Nebraska-Lincoln 
-email: jgomesneto2@unl.edu
+* email: jgomesneto2@unl.edu
