@@ -1,3 +1,4 @@
 # Joao Carlos Gomes Neto
-1. Location: 8200 Renata Drive, apt 1201
-Lincoln-NE, USA, 68516
+
+Department of Food Science and Technology                                    email: jgomesneto2@unl.edu
+University of Nebraska-Lincoln 
