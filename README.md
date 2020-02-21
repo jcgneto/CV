@@ -115,7 +115,7 @@ Episkills: Python for epidemiology training
 
 ## Programming skills 
 
-Python (primary language I use for data analytics), Bash, and R.
+Python (primary language I use for data analytics) and Bash. 
 
 # Professional references
 
