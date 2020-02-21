@@ -18,7 +18,8 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 # Research areas
 
-Microbial genomics and epidemiology: ecology of foodborne pathogens, bioinformatics, data analytics and statistics  
+Microbial genomics and epidemiology: ecology and population genomics of foodborne pathogens, data science, and machine learning. 
+Microbial communities: food and gut microbiome.
 
 # Publications 
 
@@ -73,7 +74,7 @@ American Society for Microbiology (member since 2012)
 
 # Patents
 
-ISURF #04068 (2012) – Testing of *Mycoplasma hyosynoviae* field isolates for vaccine development. Patent was shared with Dr. Erin Strait and Zoetis Animal Health  
+ISURF #04068 (2012) – Testing of *Mycoplasma hyosynoviae* field isolates for vaccine development. Patent was shared with Dr. Erin Strait and Zoetis Animal Health.  
 
 # Grants and awards 
 
@@ -114,7 +115,7 @@ Episkills: Python for epidemiology training
 
 ## Programming skills 
 
-Python (primary language I use for data analytics), Bash, and R
+Python (primary language I use for data analytics), Bash, and R.
 
 # Professional references
 
