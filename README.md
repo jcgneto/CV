@@ -102,6 +102,19 @@ Veterinary Pathology
 Behavioural Brain Research  
 FEBS open bio  
 
+# Other professional skill sets 
+
+## Quantitative training
+
+Minor in Statistics (during PhD program)
+Python programmer track (DataCamp)
+Python programming (Coursera)
+Episkills: Python for epidemiology training 
+
+## Programming skills 
+
+Python, Bash, and R
+
 # Professional references
 
 Dr. Amanda E. Ramer-Tait (UNL) - aramer-tait2@unl.edu   
@@ -111,4 +124,6 @@ Dr. Rodney Moxley (UNL) - rmoxley1@unl.edu
 Dr. Byron Chaves (UNL) - byron.chaves-elizondo@unl.edu  
 Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu  
 Dr. Andrew Benson (UNL) - abenson1@unl.edu    
+Dr. Erin Strait (Ceva Animale) - erinlstrait@gmail.com
+
   
