@@ -106,10 +106,11 @@ FEBS open bio
 
 ## Quantitative training
 
-Minor in Statistics (during PhD program)
-Python programmer track (DataCamp)
-Python programming (Coursera)
-Episkills: Python for epidemiology training 
+Minor in Statistics (during PhD program)  
+Bioinformatics - Bacterial genomics (Postdoc UNL)   
+Python programmer track (DataCamp)  
+Python programming (Coursera)  
+Episkills: Python for epidemiology training  
 
 ## Programming skills 
 
