@@ -66,7 +66,7 @@ Microbial communities: food and gut microbiome.
 
 ## Book chapters
 
-Chapter VII: Diagnosis (*Mycoplasma hyopneumoniae*) 
+Chae Ch., **Gomes-Neto J.C.**, Segales J. and Sibila M. 2020. Diagnosis of Mycoplasma hyopneumoniae infection and associated diseases. In Mycoplasmas in Swine. Chapter 8. Dominiek Maes, Marina Sibila, Maria Pieters (Editors), Acco Press Belgium, In press.
 
 # Professional affiliations
 
@@ -115,7 +115,7 @@ Episkills: Python for epidemiology training
 
 ## Programming skills 
 
-Python (primary language I use for data science) and Bash. 
+Python (primary language I use for data science), R and Bash. 
 
 # Professional references
 
