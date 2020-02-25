@@ -66,7 +66,7 @@ Microbial communities: food and gut microbiome.
 
 ## Book chapters
 
-Chae Ch., **Gomes-Neto J.C.**, Segales J. and Sibila M. 2020. Diagnosis of Mycoplasma hyopneumoniae infection and associated diseases. In Mycoplasmas in Swine. Chapter 8. Dominiek Maes, Marina Sibila, Maria Pieters (Editors), Acco Press Belgium, In press.
+Chae Ch., **Gomes-Neto J.C.**, Segales J. and Sibila M. 2020. Diagnosis of *Mycoplasma hyopneumoniae* infection and associated diseases. In Mycoplasmas in Swine. Chapter 8. Dominiek Maes, Marina Sibila, Maria Pieters (Editors), Acco Press Belgium, In press.
 
 # Professional affiliations
 
