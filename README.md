@@ -88,6 +88,8 @@ Golden Key International Society membership (2014)
 
 ## Grants
 
+Chaves, B.D., **Gomes-Neto, J.C.**, and Benson, A.K. Identifying Genetic Determinants Enhancing the Potential of *Salmonella* Serovar Enteritidis as a Human Pathogen. NU Foundation. $10,000. 05/01/2019-04/30/2020.
+
 # Teaching experiences
 
 Lecture in Epidemiology of foodborne pathogens (UNL/2020)  
