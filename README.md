@@ -129,5 +129,6 @@ Dr. Byron Chaves (UNL) - byron.chaves-elizondo@unl.edu
 Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu  
 Dr. Andrew Benson (UNL) - abenson1@unl.edu    
 Dr. Erin Strait (Ceva Animale) - erinlstrait@gmail.com
+Dr. Jennifer Clarke (UNL) - jclarke3@unl.edu
 
   
