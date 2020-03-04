@@ -18,8 +18,8 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 # Research areas
 
-Microbial genomics and epidemiology: ecology and population genomics of foodborne pathogens, data science, and machine learning.   
-Microbial communities: food and gut microbiome.  
+Microbial genomics and epidemiology: ecology and population genomics of foodborne pathogens.  
+Microbial communities: gut microbiome.   
 
 # Publications 
 
@@ -106,6 +106,10 @@ Behavioural Brain Research
 FEBS open bio  
 
 # Other professional skill sets 
+
+## Professional employment
+
+Swine Veterinarian in Brazil (2008-10)  
 
 ## Quantitative training
 
