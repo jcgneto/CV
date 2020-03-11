@@ -13,14 +13,14 @@ B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2
 
 # Academic appointments
 
-Postdoctoral researcher in Microbial genomics and epidemiology, University of Nebraska-Lincoln (2018-present) 
+Postdoctoral researcher in Microbial genomics and data science, University of Nebraska-Lincoln (2018-present) 
 Postdoctoral resercher in Gut microbiome and inflammatory diseases, University of Utah Medical Center (2017-18)            
 
 # Research areas
 
-Microbial population genomics and evolution.  
-Data Science & Machine Learning & Microbial population genomics.  
-Foodborne pathogens.   
+Microbial genomics and data science.  
+Machine learning and microbial genomics.   
+Foodborne pathogens and gut microbiome.   
 
 # Publications 
 
@@ -123,7 +123,7 @@ Episkills: Python for epidemiology training
 
 ## Programming skills 
 
-Python and Bash. 
+Python, R, and Bash. 
 
 # Professional references
 
