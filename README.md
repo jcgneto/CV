@@ -123,7 +123,7 @@ Episkills: Python for epidemiology training
 
 ## Programming skills 
 
-Python, R, and Bash. 
+Python (primary program used for data science), R, and Bash. 
 
 # Professional references
 
