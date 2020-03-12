@@ -113,17 +113,13 @@ FEBS open bio
 
 Swine Veterinarian in Brazil (2008-10)  
 
-## Quantitative training
+## Quantitative and programming training
 
 Minor in Statistics (during PhD program)  
 Bioinformatics - Bacterial genomics (Postdoc UNL)   
 Python programmer track (DataCamp)  
 Python programming (Coursera)  
 Episkills: Python for epidemiology training  
-
-## Programming skills 
-
-Python (primary program used for data science), R, and Bash. 
 
 # Professional references
 
