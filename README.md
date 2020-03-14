@@ -18,8 +18,8 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 # Research areas
 
-Microbial population and community ecology.    
-Gut microbiome and enteric pathogens.    
+Data science & Microbial genomics & Epidemiology.   
+Foodborne pathogen molecular epidemiology.      
 
 # Publications 
 
