@@ -20,7 +20,6 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 Microbial population and community ecology.   
 Ecological statistics.   
-Gut microbiome of humans and animals.    
    
 # Publications 
 
