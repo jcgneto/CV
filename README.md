@@ -18,8 +18,8 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 # Research areas of interest
  
-Bacterial population genomics and ecological/host adaptation.  
-Machine learning and microbial genomics.    
+Microbial population and community ecology.     
+Gut microbiome of humans and animals.   
    
 # Publications 
 
