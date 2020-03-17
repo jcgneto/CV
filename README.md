@@ -17,8 +17,8 @@ Postdoctoral researcher in Microbial genomics and data science, University of Ne
 Postdoctoral resercher in Gut microbiome and inflammatory diseases, University of Utah Medical Center (2017-18)            
 
 # Research areas of interest
-
-Data science & Epidemiology & Microbial ecology.      
+ 
+Data science & Epidemiology & Microbial genomics.        
    
 # Publications 
 
