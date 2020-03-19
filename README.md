@@ -18,9 +18,8 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 # Research areas of interest
  
-Gut Microbiome and enteric pathogen ecology
-Ecological statistics 
-R programming and Rstats        
+Gut Microbiome and enteric pathogen ecology.   
+Ecological statistics.          
 
 # Publications 
 
