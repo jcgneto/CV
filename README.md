@@ -115,10 +115,10 @@ Swine Veterinarian in Brazil (2008-10)
 ## Quantitative and programming training
 
 Minor in Statistics (during PhD program)  
-Bioinformatics - Bacterial genomics (Postdoc UNL)
-Data analyst with Python track (DataCamp)
-Python programmer track (DataCamp)  
-Python programming (Coursera)  
+Bioinformatics - Bacterial genomics (Postdoc UNL)   
+Data analyst with Python track (DataCamp)   
+Python programmer track (DataCamp)    
+Python programming (Coursera)    
 Episkills: Python for epidemiology training  
 
 # Professional references
