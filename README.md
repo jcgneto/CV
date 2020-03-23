@@ -20,6 +20,7 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
  
 Gut Microbial Ecology (GME).     
 Population biology of gut microbes (temporal dynamics and setpoint stability in the ecosystem).    
+Microbial community ecology.    
 
 # Publications 
 
