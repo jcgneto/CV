@@ -20,7 +20,7 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 Microbial population and community ecology.   
 Gut microbiome and enteric pathogen community ecology.   
-Understanding how environmental factors shape microbial community structure.   
+Understanding how environmental factors shape microbial community structure.      
 
 # Publications 
 
