@@ -7,7 +7,7 @@ University of Nebraska-Lincoln
 # Education
 
 Ph.D.     Food Science and Technology (with a minor in Statistics), University of Nebraska-Lincoln, 2016  
-M.S.      Veterinary Microbioloy, Iowa State University, 2012  
+M.S.      Veterinary Microbiology, Iowa State University, 2012  
 B.S.      Computer Science, University of the People, *in progress*  
 B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2007  
 
@@ -18,8 +18,9 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 # Research areas of interest
 
-Ecological and evolutionary relationships between the host and gut microbes.   
-Ecology and evolution of bacterial enteric pathogens.    
+Bacterial population genomics and evolution.   
+Machine learning applications bacterial population genetics and genome evolution.   
+Evolution of Foodborne pathogens.   
 
 # Publications 
 
