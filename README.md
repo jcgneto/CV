@@ -13,12 +13,12 @@ B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2
 
 # Academic appointments
 
-Postdoctoral researcher in Microbial genomics and data science, University of Nebraska-Lincoln (2018-present) 
-Postdoctoral resercher in Gut microbiome and inflammatory diseases, University of Utah Medical Center (2017-18)            
+Postdoctoral researcher in Microbial genomics and data science, University of Nebraska-Lincoln (2018-present)   
+Postdoctoral resercher in Gut microbiome and inflammatory diseases, University of Utah Medical Center (2017-18)               
 
 # Research areas of interest
 
-Foodborne pathogen population and community ecology.    
+Foodborne pathogen ecology and evolution.     
 
 # Publications 
 
