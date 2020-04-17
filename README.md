@@ -26,7 +26,7 @@ Foodborne pathogen ecology and evolution.
 
 1. Abdalhamid B, Mccutchen EL, Iwen PC, **Gomes-Neto JC**, Benson AK, Hinrichs SH. Genome Sequences of Uncommon Shiga Toxin-Producing Escherichia coli Serotypes. Microbiology Resource Announcements, 2020 Mar;9(10):e01496-19.   
 
-2. Moeller AH, **Gomes-Neto JC**, Mantz S, Kittana H, Segura Munoz RR, Schmaltz RJ, Ramer-Tait AE, Nachman MW. Experimental evidence for adaptation to species-specific gut microbiota in house mice. Msphere, 2019, Jul; 4(4):e00387-19.  
+2. Moeller AH, **Gomes-Neto JC**, Mantz S, Kittana H, Segura Munoz RR, Schmaltz RJ, Ramer-Tait AE, Nachman MW. Experimental evidence for adaptation to species-specific gut microbiota in house mice. mSphere, 2019, Jul; 4(4):e00387-19.  
 
 3. Brown DG, Soto R, Yandamuri S, Stone C, Dickey L, **Gomes-Neto JC**, Pastuzyn ED, Bell R, Petersen C, Buhrke K, Fujinami RS, O'Connell RM, Stephens WZ, Shepherd JD, Lane TE, Round JL. The microbiota protects from viral-induced neurologic damage through microglia-intrinsic TLR signaling. Elife, 2019, Jul; 8:e47117.  
 
