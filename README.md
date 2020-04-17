@@ -18,7 +18,9 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 # Research areas of interest
 
-Foodborne pathogen population genomics and ecology.                  
+Data science and microbial genomics.    
+Pattern searching in microbial genomics dataset with applications for diagnostics and surveillance.   
+Finding novel ecological signatures in microbial genomics datasets.   
 
 # Publications 
 
