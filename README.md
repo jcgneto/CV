@@ -20,6 +20,7 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 Foodborne pathogen ecology and evolution.    
 Bacterial population and community ecology.     
+Ecological interactions between the resident gut microbiota and enteric pathogens.   
 
 # Publications 
 
