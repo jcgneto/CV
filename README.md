@@ -20,6 +20,7 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 Microbial population and community ecology.   
 Evolutionary interactions between gut microbial communities and enteric pathogens.    
+Ecological statistics.   
 
 # Publications 
 
