@@ -18,7 +18,7 @@ Postdoctoral resercher in Gut microbiome and inflammatory diseases, University o
 
 # Research areas of interest
 
-Population genomics of enteric pathogens.    
+Population and functional genomics of enteric pathogens.    
 Using population genetics to guide the discovery of novel drugs against AMR bacteria.     
 Leveraging population genomics of bacterial to develop novel diagnostic and surveillance tools.     
 
