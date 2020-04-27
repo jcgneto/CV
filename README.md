@@ -94,7 +94,7 @@ Chaves, B.D., **Gomes-Neto, J.C.**, and Benson, A.K. Identifying Genetic Determi
 
 Lecture in Epidemiology of foodborne pathogens (UNL/2020)  
 Microbiology (UNL/2016)  
-Food microbiology laboratory (UNL/2015) 
+Food microbiology laboratory (UNL/2015)    
 Animal metabolism and clinical biochemistry (UFLA/2004)     
 
 # Service 
