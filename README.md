@@ -20,7 +20,7 @@ Postdoctoral resercher working on Gut microbiome and inflammatory diseases, Univ
 
 
 Ecology of Foodborne pathogens    
-Ecological interactions between livestock/human gut microbiome and enteric pathogens (special interest in E. coli and Salmonella enterica)     
+Ecological interactions between livestock gut microbiome and enteric pathogens (special interest in E. coli and Salmonella enterica)     
 
 # Publications 
 
