@@ -123,7 +123,11 @@ Bioinformatics - Bacterial genomics (Postdoc UNL)
 Data analyst with Python track (DataCamp)   
 Python programmer track (DataCamp)    
 Python programming (Coursera)    
-Episkills: Python for epidemiology training  
+Episkills: Python for epidemiology training 
+
+## Mentorship
+
+Experience mentoring undergraduate students (responsible for mentoring 3 undergraduate students during PhD program)       
 
 # Professional references
 
