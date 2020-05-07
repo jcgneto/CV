@@ -123,7 +123,8 @@ Bioinformatics - Bacterial genomics (Postdoc UNL)
 Data analyst with Python track (DataCamp)   
 Python programmer track (DataCamp)    
 Python programming (Coursera)    
-Episkills: Python for epidemiology training 
+Episkills: Python for epidemiology training   
+Reproducible research (www.riffomonas.org - Dr. Pat Schloss)    
 
 ## Mentorship
 
