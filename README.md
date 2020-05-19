@@ -125,7 +125,8 @@ Data analyst with Python track (DataCamp)
 Python programmer track (DataCamp)    
 Python programming (Coursera)    
 Episkills: Python for epidemiology training   
-Reproducible research (www.riffomonas.org - Dr. Pat Schloss)    
+Reproducible research (www.riffomonas.org - Dr. Pat Schloss)   
+Link to CV on LinkedIn (https://www.linkedin.com/in/joao-carlos-gomes-neto-456b98a4/)     
 
 ## Mentorship
 
