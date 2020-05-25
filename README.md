@@ -18,7 +18,8 @@ Postdoctoral resercher working on Gut microbiome and inflammatory diseases, Univ
 
 # Research areas of interest
 
-Ecology and evolution Foodborne pathogens                              
+Ecology and evolution Foodborne pathogens    
+Ecological relationship between Foodborne pathogens and Gut/Food microbiome     
 
 # Publications 
 
