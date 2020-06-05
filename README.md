@@ -139,7 +139,6 @@ Dr. Amanda E. Ramer-Tait (UNL) - aramer-tait2@unl.edu
 Dr. Baha Abdalhamid (UNMC) - babdalhamid@unmc.edu  
 Dr. Dustin Loy (UNL) - jdloy@unl.edu  
 Dr. Rodney Moxley (UNL) - rmoxley1@unl.edu  
-Dr. Byron Chaves (UNL) - byron.chaves-elizondo@unl.edu  
 Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu  
 Dr. Andrew Benson (UNL) - abenson1@unl.edu    
 Dr. Erin Strait (Ceva Animale) - erinlstrait@gmail.com   
