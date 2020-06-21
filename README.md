@@ -8,7 +8,7 @@ University of Nebraska-Lincoln
 
 Ph.D.     Food Science and Technology (with a minor in Statistics), University of Nebraska-Lincoln, 2016  
 M.S.      Veterinary Microbiology, Iowa State University, 2012  
-B.S.      Computer Science, University of the People, (to be completed by Summer/2023)    
+A.S.      Computer Science, University of the People, (to be completed by Summer/2021)    
 B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2007  
 
 # Academic appointments
