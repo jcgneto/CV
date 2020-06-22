@@ -17,8 +17,9 @@ Postdoctoral researcher working on Foodborne pathogens ecology and evolution, Un
 Postdoctoral resercher working on Gut microbiome and inflammatory diseases, University of Utah Medical Center (2017-18)               
 
 # Research areas of interest
-       
-Ecology and epidemiology of Foodborne pathogens     
+
+Microbial ecology    
+Ecology of Foodborne pathogens     
 
 # Publications 
 
