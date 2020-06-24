@@ -120,10 +120,11 @@ Swine Veterinarian in Brazil (2008-10)
 ## Quantitative and programming training
 
 Minor in Statistics (during PhD program)  
-Bioinformatics - Bacterial genomics (Postdoc UNL)   
+Bioinformatics - Bacterial population genomics (Postdoc UNL)   
 Data Scientist with Python Track (DataCamp)     
 Data analyst with Python track (DataCamp)   
 Python programmer track (DataCamp)    
+Data analyst with R (DataCamp)         
 Episkills: Python for epidemiology training   
 Reproducible research (www.riffomonas.org - Dr. Pat Schloss)   
 Link to CV on LinkedIn (https://www.linkedin.com/in/joao-carlos-gomes-neto-456b98a4/)     
