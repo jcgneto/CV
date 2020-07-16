@@ -68,7 +68,7 @@ Ecology and epidemiology of foodborne pathogens
 
 ## Books and Book chapters
 
-Chae Ch, **Gomes-Neto JC**, Segales J, Sibila M. 2020. Diagnosis of *Mycoplasma hyopneumoniae* infection and associated diseases. In Mycoplasmas in Swine. Chapter 8. Dominiek Maes, Marina Sibila, Maria Pieters (Editors), Acco Press Belgium, In press.
+Chae Ch, **Gomes-Neto JC**, Segales J, Sibila M. 2020. Diagnosis of *Mycoplasma hyopneumoniae* infection and associated diseases. In Mycoplasmas in Swine. Chapter 8. Dominiek Maes, Marina Sibila, Maria Pieters (Editors), Acco Press Belgium.
 
 Cantarelli VS, Fialho ET, Zangeronimo MG, Almeida EC, **Gomes-Neto JC**. Aditivos e Coadjuvantes Biologicos na Alimentacao de Suinos. 1. ed. Lavras-MG: Editora UFLA, 2005. v. 1. 95p. (Translated title - Biological additives in Swine Nutrition).
 
