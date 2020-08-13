@@ -18,8 +18,9 @@ Postdoctoral resercher working on Gut microbiome and inflammatory diseases, Univ
 
 # Research areas of interest
 
-Ecology and epidemiology of foodborne pathogens                    
-
+Ecology and evolution of foodborne pathogens and AMR bacteria     
+Ecological interactions between gut pathogens and the resident gut microbiota                   
+ 
 # Publications 
 
 ## Articles in peer-reviewed journals
@@ -137,13 +138,18 @@ Experience mentoring undergraduate students (responsible for mentoring 3 undergr
 
 # Professional references
 
-Dr. Amanda E. Ramer-Tait (UNL) - aramer-tait2@unl.edu   
+## Main three references 
+
+Dr. Andrew Benson (UNL) - abenson1@unl.edu  
+Dr. Amanda E. Ramer-Tait (UNL) - aramer-tait2@unl.edu  
+Dr. Erin Strait (Ceva Animale) - erinlstrait@gmail.com   
+
+### Additional references
+
 Dr. Baha Abdalhamid (UNMC) - babdalhamid@unmc.edu  
 Dr. Dustin Loy (UNL) - jdloy@unl.edu  
-Dr. Rodney Moxley (UNL) - rmoxley1@unl.edu  
+Dr. Rodney Moxley (UNL) - rmoxley1@unl.edu
 Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu  
-Dr. Andrew Benson (UNL) - abenson1@unl.edu    
-Dr. Erin Strait (Ceva Animale) - erinlstrait@gmail.com   
 Dr. Jennifer Clarke (UNL) - jclarke3@unl.edu
 
-  
+ 
