@@ -27,7 +27,7 @@ Ecology of foodborne & gastrointestinal pathogens
 
 ### Articles in preparation & pre-print
 
-1. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. Prokevo: an automated scalable framework for bacterial population genomics analysis. Preprint at Bioarxiv doi: 
+1. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. Prokevo: an automated scalable framework for bacterial population genomics analysis. # Co-first authors. Preprint at Bioarxiv doi: 
 
 2. **Gomes-Neto JC**, Mantz S, Kittana H, Segura Munoz RR, Schmaltz RJ, Clarke J, Benson AK, Walter J, Ramer-Tait AE. Impact of the pathobiont Helicobacter bilis colonization kinetics on the severity of murine intestinal inflammation. *In preparation*
 
