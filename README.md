@@ -1,4 +1,4 @@
-# Joao Carlos Gomes Neto
+# Joao Carlos Gomes-Neto
 
 Department of Food Science and Technology     
 Nebraska Food for Health Center    
