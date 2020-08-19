@@ -2,7 +2,11 @@
 
 Department of Food Science and Technology     
 Nebraska Food for Health Center    
-University of Nebraska-Lincoln     
+University of Nebraska-Lincoln   
+
+Nebraska Innovation Campus         
+1901 N 21st St       
+Lincoln, NE 68508 USA     
 * email: jgomesneto2@unl.edu
 
 # Education
