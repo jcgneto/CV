@@ -129,8 +129,8 @@ International Immunopharmacology
 
 ## Professional employment
 
-Swine Veterinarian in Brazil (2008-10) 
-Traineeship in Swine Gastrointestinal Microbiology at USDA-ARS unit of West-Lafayetee, IN (2009)
+Swine Veterinarian in Brazil (2008-10)     
+Traineeship in Swine Gastrointestinal Microbiology at USDA-ARS unit of West-Lafayetee, IN (2009)             
 
 ## Quantitative and programming training
 
@@ -158,10 +158,8 @@ Dr. Erin Strait (Ceva Animale) - erinlstrait@gmail.com
 
 ### Additional references
 
+Dr. Jennifer Clarke (UNL) - jclarke3@unl.edu      
 Dr. Baha Abdalhamid (UNMC) - babdalhamid@unmc.edu  
 Dr. Dustin Loy (UNL) - jdloy@unl.edu  
-Dr. Rodney Moxley (UNL) - rmoxley1@unl.edu
-Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu  
-Dr. Jennifer Clarke (UNL) - jclarke3@unl.edu
-
- 
+Dr. Rodney Moxley (UNL) - rmoxley1@unl.edu     
+Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu   
