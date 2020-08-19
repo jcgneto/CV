@@ -1,8 +1,8 @@
 # Joao Carlos Gomes Neto
 
-Department of Food Science and Technology 
-Nebraska Food for Health Center
-University of Nebraska-Lincoln 
+Department of Food Science and Technology     
+Nebraska Food for Health Center    
+University of Nebraska-Lincoln     
 * email: jgomesneto2@unl.edu
 
 # Education
@@ -28,11 +28,11 @@ Ecology of foodborne & gastrointestinal pathogens
 
 ### Articles in preparation & pre-print
 
-1. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. Prokevo: an automated scalable framework for bacterial population genomics analysis. # Co-first authors. Preprint at Bioarxiv doi: 
+1. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. Prokevo: an automated scalable framework for bacterial population genomics analysis. # Co-first authors. Preprint at Bioarxiv doi:    
 
-2. **Gomes-Neto JC**, Mantz S, Kittana H, Segura Munoz RR, Schmaltz RJ, Clarke J, Benson AK, Walter J, Ramer-Tait AE. Impact of the pathobiont *Helicobacter bilis* colonization kinetics on the severity of murine intestinal inflammation. *In preparation*
+2. **Gomes-Neto JC**, Mantz S, Kittana H, Segura Munoz RR, Schmaltz RJ, Clarke J, Benson AK, Walter J, Ramer-Tait AE. Impact of the pathobiont *Helicobacter bilis* colonization kinetics on the severity of murine intestinal inflammation. *In preparation*       
 
-3. Kittana H, **Gomes-Neto JC**, Heck K, Sughroue J, Xian Y, Mantz S, Segura Muñoz RR, Cody LA, Schmaltz RJ, Anderson CL, Moxley RA, Hostetter JM, Fernando SC, Clarke J, Kachman SD, Cressler CE, Benson AK, Walter J, Ramer-Tait AE. Establishing the phenotypic basis of adherent-invasive *Escherichia coli* (AIEC) pathogenicity in intestinal inflammation. Preprint at Bioarxiv doi: https://doi.org/10.1101/772012
+3. Kittana H, **Gomes-Neto JC**, Heck K, Sughroue J, Xian Y, Mantz S, Segura Muñoz RR, Cody LA, Schmaltz RJ, Anderson CL, Moxley RA, Hostetter JM, Fernando SC, Clarke J, Kachman SD, Cressler CE, Benson AK, Walter J, Ramer-Tait AE. Establishing the phenotypic basis of adherent-invasive *Escherichia coli* (AIEC) pathogenicity in intestinal inflammation. Preprint at Bioarxiv doi: https://doi.org/10.1101/772012     
 
 ### Published manuscripts
 
