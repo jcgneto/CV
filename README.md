@@ -1,6 +1,7 @@
 # Joao Carlos Gomes Neto
 
-Department of Food Science and Technology                                    
+Department of Food Science and Technology 
+Nebraska Food for Health Center
 University of Nebraska-Lincoln 
 * email: jgomesneto2@unl.edu
 
