@@ -136,7 +136,7 @@ International Immunopharmacology
 ## Professional employment
 
 Swine Veterinarian in Brazil (2008-10)     
-Traineeship in Swine Gastrointestinal Microbiology at USDA-ARS unit of West-Lafayetee, IN (2009)             
+Traineeship in Swine Gastrointestinal Microbiology with Dr. Marcos Rostagno at USDA-ARS unit of West-Lafayetee, IN (2009)             
 
 ## Quantitative and programming training
 
