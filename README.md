@@ -107,6 +107,7 @@ McNair Scholars (2015-16)
 Award Larrick/Whitmore Graduate Student Travel Grants Award (2015)  
 The Widman Distinguished Graduate Assistant (2014-15)  
 Golden Key International Society membership (2014)  
+Brazillian fellowship in Animal Science research at UFLA (2004-06)
 
 ## Grants
 
