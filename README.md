@@ -159,9 +159,9 @@ Experience mentoring undergraduate students (responsible for mentoring 3 undergr
 
 ## Main three references 
 
-Dr. Andrew Benson (UNL) - abenson1@unl.edu  
-Dr. Amanda E. Ramer-Tait (UNL) - aramer-tait2@unl.edu  
-Dr. Erin Strait (Ceva Animale) - erinlstrait@gmail.com   
+Dr. Andrew Benson (UNL) - abenson1@unl.edu (402-472-5637)    
+Dr. Amanda E. Ramer-Tait (UNL) - aramer-tait2@unl.edu (402-472-7293)    
+Dr. Erin Strait (Ceva Animale) - erinlstrait@gmail.com (913-894-0230)     
 
 ### Additional references
 
