@@ -13,7 +13,7 @@ Lincoln, NE 68508 USA
 
 Ph.D.     Food Science and Technology (with a minor in Statistics), University of Nebraska-Lincoln, 2016  
 M.S.      Veterinary Microbiology, Iowa State University, 2012  
-A.S.      Computer Science, University of the People, (to be completed by 2021)    
+A.S.      Computer Science, University of the People, (to be completed by December/2021)    
 B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2007  
 
 # Academic appointments
@@ -113,7 +113,7 @@ Brazillian fellowship in Animal Science research at UFLA (2004-06)
 
 ## Grants
 
-Chaves, B.D., **Gomes-Neto, J.C.**, and Benson, A.K. Identifying Genetic Determinants Enhancing the Potential of *Salmonella* Serovar Enteritidis as a Human Pathogen. NU Foundation. $10,000. 05/01/2019-04/30/2020.
+Chaves, B.D., **Gomes-Neto, J.C.**, and Benson, A.K. Identifying genetic determinants enhancing the potential of *Salmonella* serovar Enteritidis as a human pathogen. NU Foundation. $10,000. 05/01/2019-04/30/2020.
 
 # Teaching experiences
 
