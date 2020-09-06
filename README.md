@@ -47,7 +47,7 @@ Ecology, evolution, and epidemiology of foodborne pathogens
 
 7. Segura Munoz RR, Quach T, **Gomes-Neto JC**, Xian Y, Pena PA, Weier S, Pellizzon MA, Kittana H, Cody LA, Geis AL, Heck K, Schmaltz RJ, Bindels LB, Cahoon EB, Benson AK, Clemente TE, Ramer-Tait AE. Stearidonic-enriched soybean oil modulates obesity, glucose Metabolism, and fatty acid profiles independently of *Akkermansia Muciniphila*. Mol Nutr Food Res, 2020, Jul; 12:e2000162. 
 
-8. Abdalhamid B, Mccutchen EL, Iwen PC, **Gomes-Neto JC**, Benson AK, Hinrichs SH. Genome Sequences of Uncommon Shiga Toxin-Producing Escherichia coli Serotypes. Microbiology Resource Announcements, 2020 Mar;9(10):e01496-19.   
+8. Abdalhamid B, Mccutchen EL, Iwen PC, **Gomes-Neto JC**, Benson AK, Hinrichs SH. Genome Sequences of Uncommon Shiga Toxin-Producing *Escherichia coli* Serotypes. Microbiology Resource Announcements, 2020 Mar;9(10):e01496-19.   
 
 9. Moeller AH, **Gomes-Neto JC**, Mantz S, Kittana H, Segura Munoz RR, Schmaltz RJ, Ramer-Tait AE, Nachman MW. Experimental evidence for adaptation to species-specific gut microbiota in house mice. mSphere, 2019, Jul; 4(4):e00387-19.  
 
@@ -57,11 +57,11 @@ Ecology, evolution, and epidemiology of foodborne pathogens
 
 12. Martinez I, Maldonado-Gomez MX, **Gomes-Neto JC**, Kittana H, Ding H, Schmaltz R, Joglekar P, Cardona RJ, Dr. Marsteller NL, Kembel SW, Benson AK, Peterson D, Ramer-Tait AE, Walter J. Experimental evaluation of the importance of colonization history in early-life gut microbiota assembly. eLife 2018; 7:e36521.  
 
-13. Kittana H, **Gomes-Neto JC**, Sanderfer K, Geis AL, Segura-Muñoz RR, Cody LA, Schmaltz RJ, Bindels LB, Sinha R, Hostetter JM, Benson AK, Ramer-Tait AE. Commensal Escherichia coli strains can promote intestinal inflammation via differential interleukin-6 production. Frontiers in Immunology, 2018, Oct; 9(2318).  
+13. Kittana H, **Gomes-Neto JC**, Sanderfer K, Geis AL, Segura-Muñoz RR, Cody LA, Schmaltz RJ, Bindels LB, Sinha R, Hostetter JM, Benson AK, Ramer-Tait AE. Commensal *Escherichia coli* strains can promote intestinal inflammation via differential interleukin-6 production. Frontiers in Immunology, 2018, Oct; 9(2318).  
  
 14. **Gomes-Neto JC**, Round JL. Gut microbes: a new way to take your vitamins. News and Views – Nature Reviews Gastroenterology & Hepatology, 2018, Sep; 15(9):521-522.  
 
-15. Kittana H, Quintero-Villegas MI, Bindels LB, **Gomes-Neto JC**, Schmaltz R, Segura Munoz RR, Cody LA, Moxley RA, Hostetter J, Hutkins RW, Ramer-Tait AE. Galactooligosaccharide supplementation provides protection against Citrobacter rodentium-induced colitis without limiting pathogen burden. Microbiology, 2018, Feb; 164(2):154-162.  
+15. Kittana H, Quintero-Villegas MI, Bindels LB, **Gomes-Neto JC**, Schmaltz R, Segura Munoz RR, Cody LA, Moxley RA, Hostetter J, Hutkins RW, Ramer-Tait AE. Galactooligosaccharide supplementation provides protection against *Citrobacter rodentium*-induced colitis without limiting pathogen burden. Microbiology, 2018, Feb; 164(2):154-162.  
 
 16. **Gomes-Neto JC**, Kittana H, Mantz S, Segura Munoz RR, Schmaltz R, Bindels LB, Clarke J, Hostetter JM, Benson AK, Walter J, Ramer-Tait AE. A gut pathobiont synergizes with the microbiota to instigate inflammatory disease marked by immunoreactivity against other symbionts but not itself. Scientific Reports, 2017, Dec; 7(1):17707.  
 
@@ -77,11 +77,11 @@ Ecology, evolution, and epidemiology of foodborne pathogens
 
 22. Suhr MJ, **Gomes-Neto JC**, Banjara N, Florescu DF, Mercer DF, Iwen PC, Hallen-Adams HE. Epidemiological investigation of Candida species causing bloodstream infection in pediatric small bowel transplant recipients. Mycoses, 2017, Jan; 60(6):366-374.  
     
-23. **Gomes-Neto JC**, Raymond M, Bower L, Ramirez A, Madson DM, Rosey EL, Rapp-Gabrielson VJ, Strait EL. Two clinical isolates of Mycoplasma hyosynoviae show differing pattern of lameness and pathogen detection in experimentally challenged pigs. Journal of Veterinary Science, 2016, Dec; 17(4):489-496.  
+23. **Gomes-Neto JC**, Raymond M, Bower L, Ramirez A, Madson DM, Rosey EL, Rapp-Gabrielson VJ, Strait EL. Two clinical isolates of *Mycoplasma hyosynoviae* show differing pattern of lameness and pathogen detection in experimentally challenged pigs. Journal of Veterinary Science, 2016, Dec; 17(4):489-496.  
 
-24. **Gomes-Neto JC**, Bower L, Erickson BZ, Wang C, Raymond M, Strait EL. Quantitative real-time polymerase chain reaction for detecting Mycoplasma hyosynoviae and Mycoplasma hyorhinis in pen-based oral, tonsillar, and nasal fluids. Journal of Veterinary Science, 2015, Jan; 16(2):195-201.  
+24. **Gomes-Neto JC**, Bower L, Erickson BZ, Wang C, Raymond M, Strait EL. Quantitative real-time polymerase chain reaction for detecting *Mycoplasma hyosynoviae* and *Mycoplasma hyorhinis* in pen-based oral, tonsillar, and nasal fluids. Journal of Veterinary Science, 2015, Jan; 16(2):195-201.  
  
-25. **Gomes-Neto JC**, Strait EL, Raymond M, Ramirez A, Minion FC. Antibody Responses of Swine Following Infection with Mycoplasma hyopneumoniae, M. hyorhinis, M. hyosynoviae and M. flocculare. Veterinary Microbiology, 2014, Nov; 174(1-2):163-71.  
+25. **Gomes-Neto JC**, Strait EL, Raymond M, Ramirez A, Minion FC. Antibody Responses of Swine Following Infection with *Mycoplasma hyopneumoniae*, *M. hyorhinis*, *M. hyosynoviae* and *M. flocculare*. Veterinary Microbiology, 2014, Nov; 174(1-2):163-71.  
 
 26. **Gomes-Neto JC**, Gauger PC, Strait EL, Boyes N, Madson DM, Schwartz KJ. Mycoplasma- associated arthritis: Critical points for diagnosis. Journal of Swine Health and Production, 2012, April; 20(2):82-86.  
 
@@ -140,7 +140,7 @@ International Immunopharmacology
 ## Professional employment
 
 Swine Veterinarian in Brazil (2008-10)     
-Traineeship in Swine Gastrointestinal Microbiology with Dr. Marcos Rostagno at USDA-ARS unit of West-Lafayetee, IN (2009)    
+Traineeship in Swine Gastrointestinal Microbiology with Dr. Marcos Rostagno at USDA-ARS unit at Purdue University, West-Lafayetee, IN (2009)    
 Traineeship in Swine Reproduction and Genetics at Topigs-Netherlands (2007)      
 
 ## Quantitative and programming training
@@ -173,4 +173,5 @@ Dr. Jennifer Clarke (UNL) - jclarke3@unl.edu
 Dr. Baha Abdalhamid (UNMC) - babdalhamid@unmc.edu  
 Dr. Dustin Loy (UNL) - jdloy@unl.edu  
 Dr. Rodney Moxley (UNL) - rmoxley1@unl.edu     
-Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu   
+Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu 
+Dr. June L. Round (UoU) - june.round@path.utah.edu    
