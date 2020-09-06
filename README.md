@@ -173,5 +173,5 @@ Dr. Jennifer Clarke (UNL) - jclarke3@unl.edu
 Dr. Baha Abdalhamid (UNMC) - babdalhamid@unmc.edu  
 Dr. Dustin Loy (UNL) - jdloy@unl.edu  
 Dr. Rodney Moxley (UNL) - rmoxley1@unl.edu     
-Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu 
+Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu   
 Dr. June L. Round (UoU) - june.round@path.utah.edu    
