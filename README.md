@@ -24,7 +24,7 @@ Postdoctoral resercher working on Gut microbiome and inflammatory diseases, Univ
 # Research areas of interest
 
 Integrating Data science and bacterial population genomics       
-Using systems-based approach to identifying genotypic and phenotypic signatures differentiating populations of pathogens                                 
+Using systems-based approach to identifying the underlying basis for complex traits differentiating populations of foodborne pathogens                                 
                                    
 # Publications 
 
