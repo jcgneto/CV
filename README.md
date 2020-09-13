@@ -13,7 +13,7 @@ Lincoln, NE 68508 USA
 
 Ph.D.     Food Science and Technology (with a minor in Statistics), University of Nebraska-Lincoln, 2016  
 M.S.      Veterinary Microbiology, Iowa State University, 2012  
-A.S.      Computer Science, University of the People, (to be completed by December/2021)    
+A.S.      Computer Science, University of the People, (to be completed by Spring/2022)    
 B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2007  
 
 # Academic appointments
