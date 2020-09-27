@@ -13,7 +13,7 @@ Lincoln, NE 68508 USA
 
 Ph.D.     Food Science and Technology (with a minor in Statistics), University of Nebraska-Lincoln, 2016  
 M.S.      Veterinary Microbiology, Iowa State University, 2012  
-B.S.      Computer Science, University of the People, (in progress)    
+A.S.      Computer Science, University of the People, (to be completed by spring/2022)    
 B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2007  
 
 # Academic appointments
@@ -23,7 +23,7 @@ Postdoctoral resercher working on Gut microbiome and inflammatory diseases, Univ
 
 # Research areas of interest
 
-Population genomics and epidemiology of foodborne pathogens                                         
+Ecology, evolution, and epidemiology of foodborne pathogens                                               
                                    
 # Publications 
 
