@@ -23,7 +23,8 @@ Postdoctoral resercher working on Gut microbiome and inflammatory diseases, Univ
 
 # Research areas of interest
 
-Ecology and epidemiology of foodborne pathogens         
+Ecology and epidemiology of gastrointestinal pathogens (i.e., foodborne pathogens and others)    
+Population genomics of emerging antibiotic-resistant pathogenic bacteria        
                                           
 # Publications 
 
@@ -31,13 +32,13 @@ Ecology and epidemiology of foodborne pathogens
 
 ### Articles in preparation & pre-print
 
-1. **Gomes-Neto JC#**, Pavlovikj N#, Benson AK. Identifying hidden clusters across major serovars of *Salmonella enterica* lineage I using shell-genes. # Co-first authors. *In preparation for mSphere*
+1. **Gomes-Neto JC#**, Pavlovikj N#, Benson AK. Identifying hidden genomic signatures within *S*. Infantis population. # Co-first authors. *In preparation for PloS One*
 
-2. Pavlovikj N#, **Gomes-Neto JC#**, Benson AK. ProkEvo version 2: repertoire expanding for computational analysis of foodborne pathogen genomics data. # Co-first authors. *In preparation for Frontier in Microbiology - Using Genomics to Inform Food Safety Inspection Systems (Invited publication)*
+2. Pavlovikj N#, **Gomes-Neto JC#**, Benson AK. ProkEvo version 2: an updated scalable automation for ST classification of bacterial populations using raw Illumina reads. # Co-first authors. *In preparation for BMC Informatics*
 
 3. **Gomes-Neto JC#**, Pavlovikj N#, Cano C#, Chaves BD, Loy D, Al-Ghalith G, Knights D, Iwen P, Abdalhamid B, Benson AK. Heuristic mapping of population structure and pangenome reveals unique genomic signatures within major serovars of *Salmonella enterica* lineage I. # Co-first authors. *In preparation for Frontier in Microbiology - Using Genomics to Inform Food Safety Inspection Systems (Invited publication)*
 
-4. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. Prokevo: an automated scalable framework for bacterial population genomics analysis. # Co-first authors. *In preparation for PeerJ*
+4. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. Prokevo: an automated, user-friendly, reproducible, and scalable framework for bacterial population genomics  analyses. # Co-first authors. *In preparation for PeerJ*
 
 5. **Gomes-Neto JC#**, Mantz S#, Kittana H, Segura Munoz RR, Schmaltz RJ, Clarke J, Benson AK, Walter J, Ramer-Tait AE. Impact of the pathobiont *Helicobacter bilis* colonization kinetics on the severity of murine intestinal inflammation. # Co-first authors. *In preparation for PLoS One*       
 
@@ -161,17 +162,12 @@ Experience mentoring undergraduate students (responsible for mentoring 3 undergr
 
 # Professional references
 
-## Main three references 
-
-Dr. Andrew Benson (UNL) - abenson1@unl.edu (402-472-5637) - current postdoctoral mentor      
-Dr. Amanda E. Ramer-Tait (UNL) - aramer-tait2@unl.edu (402-472-7293) - PhD's mentor     
-Dr. Erin Strait (Ceva Animale) - erinlstrait@gmail.com (913-894-0230) - Master's mentor       
-
-### Additional references
-
+Dr. Andrew Benson (UNL) - abenson1@unl.edu    
+Dr. Amanda E. Ramer-Tait (UNL) - aramer-tait2@unl.edu   
+Dr. Erin Strait (Ceva Animale) - erinlstrait@gmail.com     
 Dr. Jennifer Clarke (UNL) - jclarke3@unl.edu      
 Dr. Baha Abdalhamid (UNMC) - babdalhamid@unmc.edu  
 Dr. Dustin Loy (UNL) - jdloy@unl.edu  
 Dr. Rodney Moxley (UNL) - rmoxley1@unl.edu     
 Dr. Elizabeth VanWormer (UNL) - liz.vanwormer@unl.edu   
-Dr. June L. Round (UoU) - june.round@path.utah.edu    
+Dr. June L. Round (UoU) - june.round@path.utah.edu 
