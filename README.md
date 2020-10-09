@@ -54,7 +54,7 @@ Population genomics of emerging antibiotic-resistant pathogenic bacteria
 
 10. Brown DG, Soto R, Yandamuri S, Stone C, Dickey L, **Gomes-Neto JC**, Pastuzyn ED, Bell R, Petersen C, Buhrke K, Fujinami RS, O'Connell RM, Stephens WZ, Shepherd JD, Lane TE, Round JL. The microbiota protects from viral-induced neurologic damage through microglia-intrinsic TLR signaling. Elife, 2019, Jul; 8:e47117.  
 
-11. Eissa N, Kittana H, **Gomes-Neto JC**, Hussein H. Mucosal Immunity and Gut Microbiota in Dogs with Idiopathic Inflammatory Bowel Disease. Research in Veterinary Science, 2018, Nov; 24(122):156-164.  
+11. Eissa N, Kittana H, **Gomes-Neto JC**, Hussein H. Mucosal immunity and gut microbiota in dogs with idiopathic inflammatory bowel disease. Research in Veterinary Science, 2018, Nov; 24(122):156-164.  
 
 12. Martinez I, Maldonado-Gomez MX, **Gomes-Neto JC**, Kittana H, Ding H, Schmaltz R, Joglekar P, Cardona RJ, Dr. Marsteller NL, Kembel SW, Benson AK, Peterson D, Ramer-Tait AE, Walter J. Experimental evaluation of the importance of colonization history in early-life gut microbiota assembly. eLife 2018; 7:e36521.  
 
@@ -74,7 +74,7 @@ Population genomics of emerging antibiotic-resistant pathogenic bacteria
 
 20. Clavel T, **Gomes-Neto JC**, Lagkouvardos I, Ramer-Tait AE. Deciphering interactions between the gut microbiota and the immune system via microbial cultivation and minimal microbiomes. Immunological Reviews, 2017, Sept; 279(1):8-22.  
 
-21. Berry D, Pfann C, Steinberger M, Hanson B, Herp S, Brugiroux S, **Gomes-Neto JC**, Boekschoten MV, Schwab C, Urich T, Ramer-Tait AE, Rattei T, Stecher B, Berry D. Lifestyle and horizontal gene transfer-mediated evolution of Mucispirillum schaedleri, a core member of the murine gut microbiota. mSystems, 2017, Jan; 2(1).  
+21. Berry D, Pfann C, Steinberger M, Hanson B, Herp S, Brugiroux S, **Gomes-Neto JC**, Boekschoten MV, Schwab C, Urich T, Ramer-Tait AE, Rattei T, Stecher B, Berry D. Lifestyle and horizontal gene transfer-mediated evolution of *Mucispirillum schaedleri*, a core member of the murine gut microbiota. mSystems, 2017, Jan; 2(1).  
 
 22. Suhr MJ, **Gomes-Neto JC**, Banjara N, Florescu DF, Mercer DF, Iwen PC, Hallen-Adams HE. Epidemiological investigation of Candida species causing bloodstream infection in pediatric small bowel transplant recipients. Mycoses, 2017, Jan; 60(6):366-374.  
     
@@ -82,7 +82,7 @@ Population genomics of emerging antibiotic-resistant pathogenic bacteria
 
 24. **Gomes-Neto JC**, Bower L, Erickson BZ, Wang C, Raymond M, Strait EL. Quantitative real-time polymerase chain reaction for detecting *Mycoplasma hyosynoviae* and *Mycoplasma hyorhinis* in pen-based oral, tonsillar, and nasal fluids. Journal of Veterinary Science, 2015, Jan; 16(2):195-201.  
  
-25. **Gomes-Neto JC**, Strait EL, Raymond M, Ramirez A, Minion FC. Antibody Responses of Swine Following Infection with *Mycoplasma hyopneumoniae*, *M. hyorhinis*, *M. hyosynoviae* and *M. flocculare*. Veterinary Microbiology, 2014, Nov; 174(1-2):163-71.  
+25. **Gomes-Neto JC**, Strait EL, Raymond M, Ramirez A, Minion FC. Antibody responses of swine following infection with *Mycoplasma hyopneumoniae*, *M. hyorhinis*, *M. hyosynoviae* and *M. flocculare*. Veterinary Microbiology, 2014, Nov; 174(1-2):163-71.  
 
 26. **Gomes-Neto JC**, Gauger PC, Strait EL, Boyes N, Madson DM, Schwartz KJ. Mycoplasma- associated arthritis: Critical points for diagnosis. Journal of Swine Health and Production, 2012, April; 20(2):82-86.  
 
@@ -141,7 +141,7 @@ International Immunopharmacology
 ## Professional employment
 
 Swine Veterinarian in Brazil (2008-10)     
-Traineeship in Swine Gastrointestinal Microbiology with Dr. Marcos Rostagno at USDA-ARS unit at Purdue University, West-Lafayetee, IN (2009)    
+Traineeship in Swine Gastrointestinal Microbiology with Dr. Marcos Rostagno at USDA-ARS unit at Purdue University, West Lafayette, IN (2009)    
 Traineeship in Swine Reproduction and Genetics at Topigs-Netherlands (2007)      
 
 ## Quantitative and programming training
