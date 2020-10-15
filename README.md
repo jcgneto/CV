@@ -38,7 +38,7 @@ Population genomics of emerging antibiotic-resistant pathogenic bacteria
 
 3. **Gomes-Neto JC#**, Pavlovikj N#, Cano C#, Chaves BD, Loy D, Al-Ghalith G, Knights D, Iwen P, Abdalhamid B, Benson AK. Heuristic mapping of population structure and pangenome reveals unique genomic signatures within major serovars of *Salmonella enterica* lineage I. # Co-first authors. *In preparation for Frontier in Microbiology - Using Genomics to Inform Food Safety Inspection Systems (Invited publication)*
 
-4. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. Prokevo: an automated, user-friendly, reproducible, and scalable framework for bacterial population genomics  analyses. # Co-first authors. *In preparation for PeerJ*
+4. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. Prokevo: an automated, user-friendly, reproducible, and scalable framework for bacterial population genomics  analyses. # Co-first authors. https://www.biorxiv.org/content/10.1101/2020.10.13.336479v1 *In preparation for PeerJ*
 
 5. **Gomes-Neto JC#**, Mantz S#, Kittana H, Segura Munoz RR, Schmaltz RJ, Clarke J, Benson AK, Walter J, Ramer-Tait AE. Impact of the pathobiont *Helicobacter bilis* colonization kinetics on the severity of murine intestinal inflammation. # Co-first authors. *In preparation for PLoS One*       
 
