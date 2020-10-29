@@ -23,7 +23,7 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-Salmonella population and community ecology       
+My research focuses on the ecology and evolution of Salmonella, while combining observational and laboratory studies to understand how emergent epidemiological clones are transmitted among hosts, and across complex ecosystems over time. By using a combination of population genomics and reverse ecology approaches, that allow us to map complex traits to genotypes, we can begin to learn about the unique or shared determinants of success for a given lineage. The overarching goal of this work is to discover generalizable mechanisms underlying the basis for emergence and reoccurrence of this pathogen, so in turn we can improve surveillance and mitigate the risk of human illnesses.               
 
 # Publications 
 
