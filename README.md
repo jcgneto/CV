@@ -23,7 +23,7 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-I am interested in combining tools and knowledge of data science, population genomics, ecology, and epidemiology to understand the basis for the emergence and spread of epidemiological clones of zoonotic serovars of Salmonella. By identifying population-based genomic signatures within and between epidemiological clones across serovars, we can expect to generate novel information to improve pathogen surveillance and mitigate the risk of human illnesses.                
+I am interested in combining tools and knowledge of data science, microbial genomics and ecology to understand the basis for the emergence and spread of epidemiological clones of zoonotic serovars of Salmonella. By identifying population-based genomic signatures within and between epidemiological clones across serovars, we can expect to generate novel information to improve pathogen surveillance and mitigate the risk of human illnesses.                      
 
 # Publications 
 
