@@ -23,7 +23,15 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-Salmonella ecology and evolution                          
+My research combines data science and microbial population genomics to hack Salmonella populations in order to investigate the following questions:
+
+1. What are the most dominant lineages capable of spreading across the food chain within and between serovars of Salmonella? 
+2. What are the unique genomic events differentiating those lineages? What are the inferred traits/phenotypes that would underlie changes in fitness across populations? Are there host-specific and geographical-related signatures?
+3. Do those lineages change their temporal dynamics across locations/environments/hosts? 
+4. Can lineages from belonging to the same or divergent zoonotic serovars co-exist in an environment? What is their community structure and how do their dynamics change over time?
+5. Are there specific gut microbiome signatures that either facilitate engraftment or provide colonization resistance against those lineages?
+
+I believe those are essential questions that, if answered, would facilitate our understanding of why Salmonella is so prevalent and widespread across the food chain. And in turn, this knowledge may result in actionable knowledge that will facilitate the control of this pathogen.                            
 
 # Publications 
 
