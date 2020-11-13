@@ -23,13 +23,7 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-My research combined principles of ecology and evolution to understand how Salmonella populations diversity and adapt to a diverse array of habitats across the food chain from animal reservoirs, all the way to humans. Specifically, I aim at combining knowledge form microbial population genomics and reverse ecology to study the following questions:
-
-1) What are the factors shaping the population structure of dominant zoonotic serovars of Salmonella?
-2) What are the genomic events, and predicted traits, uniquely present in clonal complexes and/or dominant epidemiological clones? How do those traits affect evolutionary fitness?
-3) What epidemiological/ecological factors influence changes in the spatio-temporal dynamics of epidemiological clones?
-
-Ultimately the goal of this work is to generate novel information for diagnostics, surveillance, and control of Salmonella across the food chain.                                 
+*Salmonella enterica* ecology and epidemiology                                            
 
 # Publications 
 
