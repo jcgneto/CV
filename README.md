@@ -22,7 +22,14 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-*Salmonella enterica* ecology and evolution                                                                               
+At a broader scale, I am interested in understanding the ecology and evolution of Salmonella across the food chain. Specifically, my work focus on identifying the genomic basis for the evolution of complex traits that directly influence the diversification and emergence of zoonotic variants of *Salmonella enterica* zoonotic serovars.  In particular, my research aims understanding the following topics:
+
+1. What are the factors shaping the population structure and genetic architecture of Salmonella populations? 
+2. What are the most dominant lineages? What are the loci and traits uniquely acquired by them? What are the major loci associated with successful spread and emergence of pathogenic variants?
+3. What are the genomic basis for complex traits such as the ability to spread across the food chain?
+4. How are metabolic vs virulence pathways evolving across different serovars? 
+
+Ultimately, the overarching goal of this work is to inform diagnostics, surveillance, and mitigation efforts to control Salmonellosis in human populations.                                                                               
 
 # Publications 
 
