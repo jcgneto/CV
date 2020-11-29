@@ -22,14 +22,7 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-At a broader scale, I am interested in understanding the ecology and evolution of Salmonella across the food chain. Specifically, my work focus on identifying the genomic basis for the evolution of complex traits that directly influence the diversification and emergence of zoonotic variants of *Salmonella enterica* zoonotic serovars.  In particular, my research aims understanding the following topics:
-
-1. What are the factors shaping the population structure and genetic architecture of Salmonella populations? 
-2. What are the most dominant lineages? What are the loci and traits uniquely acquired by them? What are the major loci associated with successful spread and emergence of pathogenic variants?
-3. What are the genomic basis for complex traits such as the ability to spread across the food chain?
-4. How are metabolic vs virulence pathways evolving across different serovars? 
-
-Ultimately, the overarching goal of this work is to inform diagnostics, surveillance, and mitigation efforts to control Salmonellosis in human populations.                                                                               
+Research in our group focuses on using population genomics and reverse ecology to address complex questions in the ecology and evolution of Salmonella. Our focuses are centered on using population-based comparative genomic analyses to identify unique genomic events (SNPs, indels, loci, etc) uniquely present across major zoonotic serovars of Salmonella enterica, and how this is related to their genome architecture, ecotype formation, and the evolution of host/niche adaptation and virulence. Ultimately, our goals are: 1) Identifying the ecological forces shaping the genome architecture of Salmonella populations; 2) To reveal novel insights on how complex traits such AMR evolve across Salmonella populations; 3) Finding novel and ancestral traits facilitating the spread of epidemiological clones across the food-chain; 4) Mapping informative SNPs or haplotypes that facilitate the acquisition and maintenance of niche-specifying and/or niche-transcending traits; and lastly 5) Translate and generate population-based genomic information to be used in diagnostics, surveillance, and pathogen control. To achieve those goals, our group will make use of observational, computational, and laboratorial studies, including targeted and agnostic phenotyping, to identifying the causal genomic events determining the basis for successful spread and persistence of Salmonella lineages in the food-chain.                                                                                   
 
 # Publications 
 
