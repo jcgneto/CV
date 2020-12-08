@@ -22,9 +22,7 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-I work on the interface between microbial genomics and data science with the goal of finding ecological patterns in bacterial populations that reflect adaptations to different hosts/environments. 
-
-Research in our group focuses on using population genomics and reverse ecology to address complex questions in the ecology and evolution of Salmonella. Our focuses are centered on using population-based comparative genomic analyses to identify unique genomic events (SNPs, indels, loci, etc) uniquely present across major zoonotic serovars of Salmonella enterica, and how this is related to their genome architecture, ecotype formation, and the evolution of host/niche adaptation and virulence. Ultimately, our goals are: 1) Identifying the ecological forces shaping the genome architecture of Salmonella populations; 2) To reveal novel insights on how complex traits such AMR evolve across Salmonella populations; 3) Finding novel and ancestral traits facilitating the spread of epidemiological clones across the food-chain; 4) Mapping informative SNPs or haplotypes that facilitate the acquisition and maintenance of niche-specifying and/or niche-transcending traits; and lastly 5) Translate and generate population-based genomic information to be used in diagnostics, surveillance, and pathogen control. To achieve those goals, our group will make use of observational, computational, and laboratorial studies, including targeted and agnostic phenotyping, to identifying the causal genomic events determining the basis for successful spread and persistence of Salmonella lineages in the food-chain.                                                                                   
+Salmonella ecology and epidemiology                                                                                      
 
 # Publications 
 
@@ -38,11 +36,11 @@ Research in our group focuses on using population genomics and reverse ecology t
 
 3. **Gomes-Neto JC#**, Pavlovikj N#, Cano C#, Chaves BD, Loy D, Al-Ghalith G, Knights D, Iwen P, Abdalhamid B, Benson AK. Heuristic mapping of population structure and pangenome reveals unique genomic signatures within major serovars of *Salmonella enterica* lineage I. # Co-first authors. *In preparation for Frontier in Microbiology - Using Genomics to Inform Food Safety Inspection Systems (Invited publication)*
 
-4. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. ProkEvo: an automated, user-friendly, reproducible, and scalable framework for bacterial population genomics  analyses. # Co-first authors. https://www.biorxiv.org/content/10.1101/2020.10.13.336479v1 *In preparation for PeerJ*
+4. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. ProkEvo: an automated, user-friendly, reproducible, and scalable framework for bacterial population genomics  analyses. # Co-first authors. https://www.biorxiv.org/content/10.1101/2020.10.13.336479v1 *Submitted to PeerJ*
 
 5. **Gomes-Neto JC#**, Mantz S#, Kittana H, Segura Munoz RR, Schmaltz RJ, Clarke J, Benson AK, Walter J, Ramer-Tait AE. Impact of the pathobiont *Helicobacter bilis* colonization kinetics on the severity of murine intestinal inflammation. # Co-first authors. *In preparation for PLoS One*       
 
-6. Kittana H, **Gomes-Neto JC**, Heck K, Sughroue J, Xian Y, Mantz S, Segura Muñoz RR, Cody LA, Schmaltz RJ, Anderson CL, Moxley RA, Hostetter JM, Fernando SC, Clarke J, Kachman SD, Cressler CE, Benson AK, Walter J, Ramer-Tait AE. Establishing the phenotypic basis of adherent-invasive *Escherichia coli* (AIEC) pathogenicity in intestinal inflammation. Preprint at Bioarxiv doi: https://doi.org/10.1101/772012. Submitted to *PLoS Pathogens*   
+6. Kittana H, **Gomes-Neto JC**, Heck K, Sughroue J, Xian Y, Mantz S, Segura Muñoz RR, Cody LA, Schmaltz RJ, Anderson CL, Moxley RA, Hostetter JM, Fernando SC, Clarke J, Kachman SD, Cressler CE, Benson AK, Walter J, Ramer-Tait AE. Establishing the phenotypic basis of adherent-invasive *Escherichia coli* (AIEC) pathogenicity in intestinal inflammation. Preprint at Bioarxiv doi: https://doi.org/10.1101/772012.  
 
 ### Published manuscripts
 
