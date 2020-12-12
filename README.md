@@ -23,7 +23,6 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 # Research areas of interest
 
 Salmonella ecology and evolution      
-Systems microbiology      
 
 # Publications 
 
