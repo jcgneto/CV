@@ -136,25 +136,13 @@ International Immunopharmacology
 
 # Other professional skill sets 
 
-## Professional employment
+## Additional professional employment/training
 
 Swine Veterinarian in Brazil (2008-10)     
 Traineeship in Swine Gastrointestinal Microbiology with Dr. Marcos Rostagno at USDA-ARS unit at Purdue University, West Lafayette, IN (2009)    
 Traineeship in Swine Reproduction and Genetics at Topigs-Netherlands (2007)      
-
-## Quantitative and programming training
-
-Minor in Statistics (during PhD program)  
-Bioinformatics - Bacterial population genomics (Postdoc UNL)   
-Data Scientist with Python Track (DataCamp)     
-Data analyst with Python track (DataCamp)   
-Python programmer track (DataCamp)    
-Data analyst with R (DataCamp)         
-Episkills: Python for epidemiology training   
-Reproducible research (www.riffomonas.org - Dr. Pat Schloss)   
-Link to CV on LinkedIn (https://www.linkedin.com/in/joao-carlos-gomes-neto-456b98a4/)     
-
-## Mentorship
+   
+## Mentorship experience
 
 Experience mentoring undergraduate students (responsible for mentoring 3 undergraduate students during PhD program)       
 
