@@ -22,8 +22,7 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-1. Quantitative and population-based microbiology -> using population-based analysis to identify unique genomic signatures across bacterial lineages, and use that information for phenotypic prediction and testing, and ultimately, linking genotype to phenotypes while identifying the genetic determinants of phenotypic variation across complex traits (i.e., AMR, etc).            
-2. Applying topic 1 to studying *Salmonella enterica* populations with the goal of mapping physiological and metabolic traits, and its genetic determinants, that facilitate spread across the food chain.                      
+Salmonella ecology and evolution                             
 
 # Publications 
 
