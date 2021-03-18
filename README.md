@@ -132,7 +132,8 @@ Veterinary Pathology
 Behavioural Brain Research  
 FEBS open bio  
 Food Research International   
-International Immunopharmacology     
+International Immunopharmacology    
+PeerJ
 
 # Other professional skill sets 
 
