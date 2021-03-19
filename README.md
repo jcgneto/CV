@@ -22,7 +22,7 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-Identifying unique traits that facilitate the emergence and spread of novel zoonotic epidemiological clones of *Salmonella enterica* lineage I and translate them into actionable information to mitigate risk of transmission.         
+Identifying unique genomic signatures and traits that facilitate the emergence and spread of novel zoonotic epidemiological clones of Foodborne pathogens, and in turn translate that knowledge into ACTIONABLE information for epidemiological surveillance and disease mitigation.     
 
 # Publications 
 
