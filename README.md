@@ -22,11 +22,19 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-We use comparative and population-based genomics to study the population of gut pathogenic microbes such as foodborne pathogens, aiming at generating the following actionable information:      
+In general, our multi-disciplinary team uses comparative and population-based genomics to study the population of gut microbes, including pathogenic (i.e., foodborne pathogens) and non-pathogenic (i.e., symbionts with probiotic potential), aiming at generating actionable clinical knowledge.        
 
-1. Understand the mechanistic basis for complex traits such as AMR for improving control and treatments       
-2. Discover new antimicrobial molecules using plants as a source of bacteriostatic or bactericidal chemicals      
-3. Identifying unique genomic features to inform diagnostics and surveillance    
+1. For the study of pathogenic organisms, our goals are:        
+
+- Identifying the genetic determinants of quantitative traits such as AMR, and other physiological traits that facilitate the spread across the food chain, to improve diagnostics and surveillance.       
+
+- Discover new antimicrobial molecules through systems genomics using crops as the source of novel chemicals.       
+
+- Identifying unique genomic features to inform diagnostics and surveillance of emergent variants.     
+
+2. For the study of non-pathogenic organisms, our objectives are:         
+
+- Identifying unique candidate strains, with specific traits, via the use of population genomics.       
 
 # Publications 
 
