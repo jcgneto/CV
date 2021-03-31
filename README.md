@@ -22,7 +22,11 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-Identifying unique genomic signatures and traits that facilitate the emergence and spread of novel zoonotic epidemiological clones of Foodborne pathogens, and in turn translate that knowledge into ACTIONABLE information for epidemiological surveillance and disease mitigation.     
+We use comparative and population-based genomics to study the population of gut pathogenic microbes such as foodborne pathogens, aiming at generating the following actionable information:      
+
+1. Understand the mechanistic basis for complex traits such as AMR for improving control and treatments       
+2. Discover new antimicrobial molecules using plants as a source of bacteriostatic or bactericidal chemicals      
+3. Identifying unique genomic features to inform diagnostics and surveillance    
 
 # Publications 
 
