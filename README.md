@@ -17,25 +17,19 @@ B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2
 
 # Academic appointments
 
-Postdoctoral researcher working on Foodborne pathogens ecology and evolution, University of Nebraska-Lincoln (2018-present)   
+Postdoctoral researcher working on Foodborne pathogen genomics, University of Nebraska-Lincoln (2018-present)   
 Postdoctoral researcher working on Gut microbiome and inflammatory diseases, University of Utah Medical Center (2017-18)               
 
 # Research areas of interest
 
-In general, our multi-disciplinary team uses comparative and population-based genomics to study the population of gut microbes, including pathogenic (i.e., foodborne pathogens) and non-pathogenic (i.e., symbionts with probiotic potential), aiming at generating actionable clinical knowledge.        
+Our multi-disciplinary team uses comparative and population-based genomics to study the population of gut pathogens including Foodborne microorganisms, aiming at generating actionable clinical knowledge. Here are some of our goals:         
 
-1. For the study of pathogenic organisms, our goals are:        
+- Identifying the genetic determinants of quantitative traits such as AMR, and other physiological traits that facilitate the spread across the food chain, in order to improve mitigation and surveillance.         
 
-- Identifying the genetic determinants of quantitative traits such as AMR, and other physiological traits that facilitate the spread across the food chain, to improve diagnostics and surveillance.       
+- Discover new antimicrobial molecules through systems genomics using crops as the source of novel chemicals.        
 
-- Discover new antimicrobial molecules through systems genomics using crops as the source of novel chemicals.       
-
-- Identifying unique genomic features to inform diagnostics and surveillance of emergent variants.     
-
-2. For the study of non-pathogenic organisms, our objectives are:         
-
-- Identifying unique candidate strains, with specific traits, via the use of population genomics.       
-
+- Identifying unique genomic features to inform diagnostics and surveillance of emergent variants.          
+    
 # Publications 
 
 ## Articles in peer-reviewed journals
