@@ -17,18 +17,18 @@ B.S.      Doctor in Veterinary Medicine, Federal University of Lavras, Brazil, 2
 
 # Academic appointments
 
-Postdoctoral researcher working on Foodborne pathogen genomics, University of Nebraska-Lincoln (2018-present)   
+Postdoctoral researcher working on Bacterial comparative and population genomics, University of Nebraska-Lincoln (2018-present)   
 Postdoctoral researcher working on Gut microbiome and inflammatory diseases, University of Utah Medical Center (2017-18)               
 
 # Research areas of interest
 
-Our multi-disciplinary team uses comparative and population-based genomics to study the population of AMR bacteria including Foodborne pathogens, aiming at generating actionable knowledge exemplified by:      
+Our multi-disciplinary team uses systems-based, comparative, and population genomics to study the population of gut microbes (pathogenic and non-pathogenic bacteria) aiming at investigating the following topics:      
 
-- Identifying the genetic determinants of quantitative traits such as AMR, and other physiological traits that facilitate the spread across the food chain, in order to improve mitigation and surveillance.          
+- Identifying the genetic determinants of complex or quantitative traits such as AMR, and other physiological traits underpinning zoonotic events of pathogens, or engraftment of probiotics.         
 
-- Discover new antimicrobial molecules through systems genomics using crops as the source of novel chemicals.           
+- Discover novel probiotic-promoting and/or pathogen-antagonizing plant-based molecules for dietary modulation on the gut microbiome.      
 
-- Identifying unique genomic features to inform diagnostics and surveillance of emergent variants.       
+- Identifying cryptic ecotypes and traits that facilitate niche-restriction or host-generalizing phenotypes.         
           
 # Publications 
 
