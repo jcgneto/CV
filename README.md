@@ -139,7 +139,7 @@ Behavioural Brain Research
 FEBS open bio  
 Food Research International   
 International Immunopharmacology    
-PeerJ
+PeerJ       
 BMC Microbiology
 
 # Other professional skill sets 
