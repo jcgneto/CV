@@ -24,7 +24,7 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 Our multi-disciplinary team uses systems-based, comparative, and population genomics to study the population of gut microbes (pathogenic and non-pathogenic bacteria) aiming at investigating the following topics:      
 
-- Identifying the genetic determinants of complex or quantitative traits such as AMR, and other physiological traits underpinning zoonotic events of pathogens, or engraftment of probiotics.         
+- Identifying the genetic determinants of complex or quantitative traits such as AMR, and other physiological traits underpinning zoonotic spill-overs of pathogens, or engraftment of probiotics.         
 
 - Discover novel probiotic-promoting and/or pathogen-antagonizing plant-based molecules for dietary modulation on the gut microbiome.      
 
