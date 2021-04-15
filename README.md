@@ -136,7 +136,7 @@ FEBS open bio
 Food Research International   
 International Immunopharmacology    
 PeerJ       
-BMC Microbiology
+BMC Microbiology        
 mSystems     
 
 # Other professional skill sets 
