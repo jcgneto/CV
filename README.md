@@ -22,13 +22,13 @@ Postdoctoral researcher working on Gut microbiome and inflammatory diseases, Uni
 
 # Research areas of interest
 
-Our multi-disciplinary team uses systems-based, comparative, and population genomics to study the population of gut microbes (e.g., frank pathogens and other gut symbionts) aiming at investigating the following topics:       
+Our multi-disciplinary team uses systems-based, comparative, and population genomics to study the population of gut microbes aiming at investigating the following topics:      
 
-1. Identifying the genetic determinants of complex or quantitative traits such as AMR, and other physiological traits underpinning host spill-overs, or niche tropisms.             
+1. Identifying the genetic determinants of complex or quantitative traits such as AMR, and other physiological traits underpinning host or niche tropisms.       
 
-2. Discover novel pathogen-antagonizing or probiotic promoting plant-based molecules for dietary modulation on the gut microbiome.          
+2. Discover novel pathogen-antagonizing plant-based molecules for dietary modulation on the gut microbiome.       
 
-3. Identifying cryptic ecotypes and traits that facilitate niche-restriction or host-generalizing phenotypes.                   
+3. Identifying cryptic ecotypes and causative traits that facilitate niche-restriction or host-generalizing phenotypes.                         
           
 # Publications 
 
