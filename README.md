@@ -26,9 +26,7 @@ Our multi-disciplinary team uses systems-based, comparative, and population geno
 
 1. Identifying the genetic determinants of complex or quantitative traits such as AMR, and other physiological traits underpinning host or niche tropisms.       
 
-2. Discover novel pathogen-antagonizing plant-based molecules for dietary modulation on the gut microbiome.       
-
-3. Identifying cryptic ecotypes and causative traits that facilitate niche-restriction or host-generalizing phenotypes.                         
+2. Identifying cryptic ecotypes and causative traits that facilitate niche-adaptation or host-generalizing phenotypes.                         
           
 # Publications 
 
