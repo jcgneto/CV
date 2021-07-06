@@ -30,61 +30,51 @@ Our multi-disciplinary team uses systems-based, comparative, and population geno
           
 # Publications 
 
-## Articles in peer-reviewed journals
+## Articles in peer-reviewed journals      
 
-### Articles in preparation & pre-print
+Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. ProkEvo: an automated, reproducible, and scalable framework for high-throughput bacterial population genomics analyses. # Co-first authors. PeerJ, 2021 May; 9:e11376. doi: 10.7717/peerj.11376. eCollection 2021.
 
-1. **Gomes-Neto JC#**, Pavlovikj N#, Cano C#, Chaves BD, Loy D, Al-Ghalith G, Knights D, Iwen P, Abdalhamid B, Benson AK. Heuristic mapping of population structure and pangenome reveals unique genomic signatures within major serovars of *Salmonella enterica* lineage I. # Co-first authors. *In preparation for Frontier in Microbiology - Using Genomics to Inform Food Safety Inspection Systems (Invited publication)*
+Segura Munoz RR, Quach T, **Gomes-Neto JC**, Xian Y, Pena PA, Weier S, Pellizzon MA, Kittana H, Cody LA, Geis AL, Heck K, Schmaltz RJ, Bindels LB, Cahoon EB, Benson AK, Clemente TE, Ramer-Tait AE. Stearidonic-enriched soybean oil modulates obesity, glucose Metabolism, and fatty acid profiles independently of *Akkermansia Muciniphila*. Mol Nutr Food Res, 2020, Jul; 12:e2000162. 
 
-2. **Gomes-Neto JC#**, Mantz S#, Kittana H, Segura Munoz RR, Schmaltz RJ, Clarke J, Benson AK, Walter J, Ramer-Tait AE. Impact of the pathobiont *Helicobacter bilis* colonization kinetics on the severity of murine intestinal inflammation. # Co-first authors. *In preparation for PLoS One*       
+Abdalhamid B, Mccutchen EL, Iwen PC, **Gomes-Neto JC**, Benson AK, Hinrichs SH. Genome Sequences of Uncommon Shiga Toxin-Producing *Escherichia coli* Serotypes. Microbiology Resource Announcements, 2020 Mar; 9(10):e01496-19.   
 
-3. Kittana H, **Gomes-Neto JC**, Heck K, Sughroue J, Xian Y, Mantz S, Segura Muñoz RR, Cody LA, Schmaltz RJ, Anderson CL, Moxley RA, Hostetter JM, Fernando SC, Clarke J, Kachman SD, Cressler CE, Benson AK, Walter J, Ramer-Tait AE. Establishing the phenotypic basis of adherent-invasive *Escherichia coli* (AIEC) pathogenicity in intestinal inflammation. Preprint at Bioarxiv doi: https://doi.org/10.1101/772012.  
+Moeller AH, **Gomes-Neto JC**, Mantz S, Kittana H, Segura Munoz RR, Schmaltz RJ, Ramer-Tait AE, Nachman MW. Experimental evidence for adaptation to species-specific gut microbiota in house mice. mSphere, 2019, Jul; 4(4):e00387-19.  
 
-### Published manuscripts
+Brown DG, Soto R, Yandamuri S, Stone C, Dickey L, **Gomes-Neto JC**, Pastuzyn ED, Bell R, Petersen C, Buhrke K, Fujinami RS, O'Connell RM, Stephens WZ, Shepherd JD, Lane TE, Round JL. The microbiota protects from viral-induced neurologic damage through microglia-intrinsic TLR signaling. Elife, 2019, Jul; 8:e47117.  
 
-4. Pavlovikj N#, **Gomes-Neto JC#**, Deogun JS, Benson AK. ProkEvo: an automated, reproducible, and scalable framework for high-throughput bacterial population genomics analyses. # Co-first authors. https://www.biorxiv.org/content/10.1101/2020.10.13.336479v1 *Accepted by PeerJ*
+Eissa N, Kittana H, **Gomes-Neto JC**, Hussein H. Mucosal immunity and gut microbiota in dogs with idiopathic inflammatory bowel disease. Research in Veterinary Science, 2018, Nov; 24(122):156-164.  
 
-5. Segura Munoz RR, Quach T, **Gomes-Neto JC**, Xian Y, Pena PA, Weier S, Pellizzon MA, Kittana H, Cody LA, Geis AL, Heck K, Schmaltz RJ, Bindels LB, Cahoon EB, Benson AK, Clemente TE, Ramer-Tait AE. Stearidonic-enriched soybean oil modulates obesity, glucose Metabolism, and fatty acid profiles independently of *Akkermansia Muciniphila*. Mol Nutr Food Res, 2020, Jul; 12:e2000162. 
+Martinez I, Maldonado-Gomez MX, **Gomes-Neto JC**, Kittana H, Ding H, Schmaltz R, Joglekar P, Cardona RJ, Dr. Marsteller NL, Kembel SW, Benson AK, Peterson D, Ramer-Tait AE, Walter J. Experimental evaluation of the importance of colonization history in early-life gut microbiota assembly. eLife 2018; 7:e36521.  
 
-6. Abdalhamid B, Mccutchen EL, Iwen PC, **Gomes-Neto JC**, Benson AK, Hinrichs SH. Genome Sequences of Uncommon Shiga Toxin-Producing *Escherichia coli* Serotypes. Microbiology Resource Announcements, 2020 Mar;9(10):e01496-19.   
-
-7. Moeller AH, **Gomes-Neto JC**, Mantz S, Kittana H, Segura Munoz RR, Schmaltz RJ, Ramer-Tait AE, Nachman MW. Experimental evidence for adaptation to species-specific gut microbiota in house mice. mSphere, 2019, Jul; 4(4):e00387-19.  
-
-8. Brown DG, Soto R, Yandamuri S, Stone C, Dickey L, **Gomes-Neto JC**, Pastuzyn ED, Bell R, Petersen C, Buhrke K, Fujinami RS, O'Connell RM, Stephens WZ, Shepherd JD, Lane TE, Round JL. The microbiota protects from viral-induced neurologic damage through microglia-intrinsic TLR signaling. Elife, 2019, Jul; 8:e47117.  
-
-9. Eissa N, Kittana H, **Gomes-Neto JC**, Hussein H. Mucosal immunity and gut microbiota in dogs with idiopathic inflammatory bowel disease. Research in Veterinary Science, 2018, Nov; 24(122):156-164.  
-
-10. Martinez I, Maldonado-Gomez MX, **Gomes-Neto JC**, Kittana H, Ding H, Schmaltz R, Joglekar P, Cardona RJ, Dr. Marsteller NL, Kembel SW, Benson AK, Peterson D, Ramer-Tait AE, Walter J. Experimental evaluation of the importance of colonization history in early-life gut microbiota assembly. eLife 2018; 7:e36521.  
-
-11. Kittana H, **Gomes-Neto JC**, Sanderfer K, Geis AL, Segura-Muñoz RR, Cody LA, Schmaltz RJ, Bindels LB, Sinha R, Hostetter JM, Benson AK, Ramer-Tait AE. Commensal *Escherichia coli* strains can promote intestinal inflammation via differential interleukin-6 production. Frontiers in Immunology, 2018, Oct; 9(2318).  
+Kittana H, **Gomes-Neto JC**, Sanderfer K, Geis AL, Segura-Muñoz RR, Cody LA, Schmaltz RJ, Bindels LB, Sinha R, Hostetter JM, Benson AK, Ramer-Tait AE. Commensal *Escherichia coli* strains can promote intestinal inflammation via differential interleukin-6 production. Frontiers in Immunology, 2018, Oct; 9(2318).  
  
-12. **Gomes-Neto JC**, Round JL. Gut microbes: a new way to take your vitamins. News and Views – Nature Reviews Gastroenterology & Hepatology, 2018, Sep; 15(9):521-522.  
+**Gomes-Neto JC**, Round JL. Gut microbes: a new way to take your vitamins. News and Views – Nature Reviews Gastroenterology & Hepatology, 2018, Sep; 15(9):521-522.  
 
-13. Kittana H, Quintero-Villegas MI, Bindels LB, **Gomes-Neto JC**, Schmaltz R, Segura Munoz RR, Cody LA, Moxley RA, Hostetter J, Hutkins RW, Ramer-Tait AE. Galactooligosaccharide supplementation provides protection against *Citrobacter rodentium*-induced colitis without limiting pathogen burden. Microbiology, 2018, Feb; 164(2):154-162.  
+Kittana H, Quintero-Villegas MI, Bindels LB, **Gomes-Neto JC**, Schmaltz R, Segura Munoz RR, Cody LA, Moxley RA, Hostetter J, Hutkins RW, Ramer-Tait AE. Galactooligosaccharide supplementation provides protection against *Citrobacter rodentium*-induced colitis without limiting pathogen burden. Microbiology, 2018, Feb; 164(2):154-162.  
 
-14. **Gomes-Neto JC**, Kittana H, Mantz S, Segura Munoz RR, Schmaltz R, Bindels LB, Clarke J, Hostetter JM, Benson AK, Walter J, Ramer-Tait AE. A gut pathobiont synergizes with the microbiota to instigate inflammatory disease marked by immunoreactivity against other symbionts but not itself. Scientific Reports, 2017, Dec; 7(1):17707.  
+**Gomes-Neto JC**, Kittana H, Mantz S, Segura Munoz RR, Schmaltz R, Bindels LB, Clarke J, Hostetter JM, Benson AK, Walter J, Ramer-Tait AE. A gut pathobiont synergizes with the microbiota to instigate inflammatory disease marked by immunoreactivity against other symbionts but not itself. Scientific Reports, 2017, Dec; 7(1):17707.  
 
-15. Payne JB, Johnson PG, Kok CR, **Gomes-Neto JC**, Ramer-Tait AE, Schmid MJ, Hutkins RW. Subgingival microbiome colonization and cytokine production during early dental implant healing. mSphere, 2017, Nov; 2(6).  
+Payne JB, Johnson PG, Kok CR, **Gomes-Neto JC**, Ramer-Tait AE, Schmid MJ, Hutkins RW. Subgingival microbiome colonization and cytokine production during early dental implant healing. mSphere, 2017, Nov; 2(6).  
 
-16. **Gomes-Neto JC**, Mantz S, Held K, Sinha R, Segura Munoz RR, Schmaltz R, Benson AK, Walter J, Ramer-Tait AE. A real-time PCR assay for accurate quantification of the individual members of the Altered Schaedler Flora microbiota in gnotobiotic mice. Journal of Microbiological Methods, 2017, April; 135:52-62.  
+**Gomes-Neto JC**, Mantz S, Held K, Sinha R, Segura Munoz RR, Schmaltz R, Benson AK, Walter J, Ramer-Tait AE. A real-time PCR assay for accurate quantification of the individual members of the Altered Schaedler Flora microbiota in gnotobiotic mice. Journal of Microbiological Methods, 2017, April; 135:52-62.  
 
-17. Bindels LB, Segura Munoz RS, **Gomes-Neto JC**, Mutemberezi V, Martínez I, Salazar N, Cody EA, Quintero-Villegas MI, Kittana H, de los Reyes-Gavilán CG, Schmaltz R, Muccioli GG, Walter J, Ramer-Tait AE. Resistant starch can improve insulin sensitivity independently of the gut microbiota. Microbiome, 2017, Feb; 5(1):12.  
+Bindels LB, Segura Munoz RS, **Gomes-Neto JC**, Mutemberezi V, Martínez I, Salazar N, Cody EA, Quintero-Villegas MI, Kittana H, de los Reyes-Gavilán CG, Schmaltz R, Muccioli GG, Walter J, Ramer-Tait AE. Resistant starch can improve insulin sensitivity independently of the gut microbiota. Microbiome, 2017, Feb; 5(1):12.  
 
-18. Clavel T, **Gomes-Neto JC**, Lagkouvardos I, Ramer-Tait AE. Deciphering interactions between the gut microbiota and the immune system via microbial cultivation and minimal microbiomes. Immunological Reviews, 2017, Sept; 279(1):8-22.  
+Clavel T, **Gomes-Neto JC**, Lagkouvardos I, Ramer-Tait AE. Deciphering interactions between the gut microbiota and the immune system via microbial cultivation and minimal microbiomes. Immunological Reviews, 2017, Sept; 279(1):8-22.  
 
-19. Berry D, Pfann C, Steinberger M, Hanson B, Herp S, Brugiroux S, **Gomes-Neto JC**, Boekschoten MV, Schwab C, Urich T, Ramer-Tait AE, Rattei T, Stecher B, Berry D. Lifestyle and horizontal gene transfer-mediated evolution of *Mucispirillum schaedleri*, a core member of the murine gut microbiota. mSystems, 2017, Jan; 2(1).  
+Berry D, Pfann C, Steinberger M, Hanson B, Herp S, Brugiroux S, **Gomes-Neto JC**, Boekschoten MV, Schwab C, Urich T, Ramer-Tait AE, Rattei T, Stecher B, Berry D. Lifestyle and horizontal gene transfer-mediated evolution of *Mucispirillum schaedleri*, a core member of the murine gut microbiota. mSystems, 2017, Jan; 2(1).  
 
-20. Suhr MJ, **Gomes-Neto JC**, Banjara N, Florescu DF, Mercer DF, Iwen PC, Hallen-Adams HE. Epidemiological investigation of Candida species causing bloodstream infection in pediatric small bowel transplant recipients. Mycoses, 2017, Jan; 60(6):366-374.  
+Suhr MJ, **Gomes-Neto JC**, Banjara N, Florescu DF, Mercer DF, Iwen PC, Hallen-Adams HE. Epidemiological investigation of Candida species causing bloodstream infection in pediatric small bowel transplant recipients. Mycoses, 2017, Jan; 60(6):366-374.  
     
-21. **Gomes-Neto JC**, Raymond M, Bower L, Ramirez A, Madson DM, Rosey EL, Rapp-Gabrielson VJ, Strait EL. Two clinical isolates of *Mycoplasma hyosynoviae* show differing pattern of lameness and pathogen detection in experimentally challenged pigs. Journal of Veterinary Science, 2016, Dec; 17(4):489-496.  
+**Gomes-Neto JC**, Raymond M, Bower L, Ramirez A, Madson DM, Rosey EL, Rapp-Gabrielson VJ, Strait EL. Two clinical isolates of *Mycoplasma hyosynoviae* show differing pattern of lameness and pathogen detection in experimentally challenged pigs. Journal of Veterinary Science, 2016, Dec; 17(4):489-496.  
 
-22. **Gomes-Neto JC**, Bower L, Erickson BZ, Wang C, Raymond M, Strait EL. Quantitative real-time polymerase chain reaction for detecting *Mycoplasma hyosynoviae* and *Mycoplasma hyorhinis* in pen-based oral, tonsillar, and nasal fluids. Journal of Veterinary Science, 2015, Jan; 16(2):195-201.  
+**Gomes-Neto JC**, Bower L, Erickson BZ, Wang C, Raymond M, Strait EL. Quantitative real-time polymerase chain reaction for detecting *Mycoplasma hyosynoviae* and *Mycoplasma hyorhinis* in pen-based oral, tonsillar, and nasal fluids. Journal of Veterinary Science, 2015, Jan; 16(2):195-201.  
  
-23. **Gomes-Neto JC**, Strait EL, Raymond M, Ramirez A, Minion FC. Antibody responses of swine following infection with *Mycoplasma hyopneumoniae*, *M. hyorhinis*, *M. hyosynoviae* and *M. flocculare*. Veterinary Microbiology, 2014, Nov; 174(1-2):163-71.  
+**Gomes-Neto JC**, Strait EL, Raymond M, Ramirez A, Minion FC. Antibody responses of swine following infection with *Mycoplasma hyopneumoniae*, *M. hyorhinis*, *M. hyosynoviae* and *M. flocculare*. Veterinary Microbiology, 2014, Nov; 174(1-2):163-71.  
 
-24. **Gomes-Neto JC**, Gauger PC, Strait EL, Boyes N, Madson DM, Schwartz KJ. Mycoplasma- associated arthritis: Critical points for diagnosis. Journal of Swine Health and Production, 2012, April; 20(2):82-86.  
+**Gomes-Neto JC**, Gauger PC, Strait EL, Boyes N, Madson DM, Schwartz KJ. Mycoplasma- associated arthritis: Critical points for diagnosis. Journal of Swine Health and Production, 2012, April; 20(2):82-86.  
 
-25. Opriessnig T, **Gomes-Neto JC**, Hemann M, Shen HG, Beach NM, Huang Y, Halbur PG, Meng XJ. An experimental live chimeric porcine circovirus 1-2a vaccine decrease circovirus 2b viremia when administered intramuscularly or orally in a porcine circovirus 2b and porcine reproductive and respiratory syndrome dual-challenge model. Microbiology and Immunology, 2011, Dec; 55(12):863-73.   
+Opriessnig T, **Gomes-Neto JC**, Hemann M, Shen HG, Beach NM, Huang Y, Halbur PG, Meng XJ. An experimental live chimeric porcine circovirus 1-2a vaccine decrease circovirus 2b viremia when administered intramuscularly or orally in a porcine circovirus 2b and porcine reproductive and respiratory syndrome dual-challenge model. Microbiology and Immunology, 2011, Dec; 55(12):863-73.   
 
 ## Books and Book chapters
 
