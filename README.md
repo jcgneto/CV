@@ -78,10 +78,9 @@ Opriessnig T, **Gomes-Neto JC**, Hemann M, Shen HG, Beach NM, Huang Y, Halbur PG
 
 ## Books and Book chapters
 
-1. Chae Ch, **Gomes-Neto JC**, Segales J, Sibila M. 2020. Diagnosis of *Mycoplasma hyopneumoniae* infection and associated diseases. In Mycoplasmas in Swine. Chapter 8. Dominiek Maes, Marina Sibila, Maria Pieters (Editors), Acco Press Belgium.
+Chae Ch, **Gomes-Neto JC**, Segales J, Sibila M. 2020. Diagnosis of *Mycoplasma hyopneumoniae* infection and associated diseases. In Mycoplasmas in Swine. Chapter 8. Dominiek Maes, Marina Sibila, Maria Pieters (Editors), Acco Press Belgium.
 
-2. Cantarelli VS, Fialho ET, Zangeronimo MG, Almeida EC, **Gomes-Neto JC**. Aditivos e Coadjuvantes Biologicos na Alimentacao de Suinos. 1. ed. Lavras-MG: Editora UFLA, 2005. v. 1. 95p. (Translated title - Biological additives in Swine Nutrition).
-
+Cantarelli VS, Fialho ET, Zangeronimo MG, Almeida EC, **Gomes-Neto JC**. Aditivos e Coadjuvantes Biologicos na Alimentacao de Suinos. 1. ed. Lavras-MG: Editora UFLA, 2005. v. 1. 95p. (Translated title - Biological additives in Swine Nutrition).
 
 # Professional affiliations
 
@@ -125,19 +124,8 @@ Food Research International
 International Immunopharmacology    
 PeerJ       
 BMC Microbiology        
-mSystems     
-
-# Other professional skill sets 
-
-## Additional professional employment/training
-
-Swine Veterinarian in Brazil (2008-10)     
-Traineeship in Swine Gastrointestinal Microbiology with Dr. Marcos Rostagno at USDA-ARS unit at Purdue University, West Lafayette, IN (2009)    
-Traineeship in Swine Reproduction and Genetics at Topigs-Netherlands (2007)      
-   
-## Mentorship experience
-
-Experience mentoring undergraduate students (responsible for mentoring 3 undergraduate students during PhD program)       
+mSystems
+Foods (MDPI)
 
 # Professional references
 
