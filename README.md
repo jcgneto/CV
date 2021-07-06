@@ -90,18 +90,7 @@ American Society for Microbiology (member since 2012)
 
 ISURF #04068 (2012) – Testing of *Mycoplasma hyosynoviae* field isolates for vaccine development. Patent was shared with Dr. Erin Strait and Zoetis Animal Health.  
 
-# Grants and awards 
-
-## Awards and honors
-
-The Milton E. Mohr Graduate Assistant (2015-16)  
-McNair Scholars (2015-16)  
-Award Larrick/Whitmore Graduate Student Travel Grants Award (2015)  
-The Widman Distinguished Graduate Assistant (2014-15)  
-Golden Key International Society membership (2014)  
-Brazillian fellowship in Animal Science research at UFLA (2004-06)
-
-## Grants
+# Grants   
 
 Chaves, B.D., **Gomes-Neto, J.C.**, and Benson, A.K. Identifying genetic determinants enhancing the potential of *Salmonella* serovar Enteritidis as a human pathogen. NU Foundation. $10,000. 05/01/2019-04/30/2020.
 
